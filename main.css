@@ -1,0 +1,142 @@
+/* NOTE: header */
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #fff7f7;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #fff7f7;
+  color: black;
+}
+
+/* NOTE: body */
+.pic {
+  border-radius: 20px;
+}
+
+.bio {
+
+  margin: 20px 30px 50px;
+  color: white;
+}
+
+.bg {
+  background-size: cover;
+}
+
+.me {
+  color: white;
+margin-top: 75px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  width: 3%;
+}
+
+.Sean {
+  font: 1.2em "Apple Chancery";
+  color: white;
+  margin-top: 50px;
+}
+
+.LinkedIn {
+  color: white;
+  margin-top: 300px;
+}
+
+.contact {
+  color: white;
+}
+
+.address {
+  font: 1.2em "Apple Chancery";
+  color: white;
+}
+
+.AC {
+  color: white;
+}
+
+/* NOTE: Work experiance */
+.we {
+  color: White;
+  margin-top: 70px;
+}
+
+.wet {
+  color: white;
+}
+
+.ul {
+  color: white;
+}
+
+.per {
+  color: White;
+}
+
+/* NOTE: education */
+.edu {
+  color: White;
+  margin-top: 20px;
+}
+
+/* NOTE: skills */
+.skill {
+  color: white;
+}
+
+/* NOTE: active certification */
+.ac {
+  color: White;
+  margin-top: 70px;
+}
+
+/* NOTE: Deployment Achievement */
+.Achievement {
+  margin: 50px 50px;
+  color: white;
+}
+
+.tab {
+  text-indent: 40px;
+  color: white;
+}
+
+}
+
+.top {
+  align-items: center;
+  background-color: #fcf9ec;
+}
+
+.bottom {
+  right: auto;
+  background-color: #12d3cf;
+  }
+
+.cloud2 {
+  width: auto;
+  padding-left: 75%;
+}
